@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<museos>
+  <nome>
+    <ciudad>Madrid</ciudad>
+    <pais>España</pais>
+  </nome>
+  <nome>
+    <ciudad>Londres</ciudad>
+    <pais>Reino Unido</pais>
+  </nome>
+  <nome>
+    <ciudad>Londres</ciudad>
+    <pais>Reino Unido</pais>
+  </nome>
+</museos>
